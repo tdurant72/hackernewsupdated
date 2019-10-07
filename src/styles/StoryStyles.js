@@ -32,7 +32,7 @@ export const StoryMeta = styled.div`
   font-style: italic;
   > span:not(:first-child):before {
     content: " - ";
-    margin: 0 7px;
+    margin: 0 10px;
   }
 
   .story__meta-bold {
